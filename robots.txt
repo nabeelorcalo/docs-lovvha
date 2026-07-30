@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-hpd2th.koi888.sbs/sitemap.xml
